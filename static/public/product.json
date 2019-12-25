@@ -1,0 +1,10 @@
+[
+  {
+    "proName":"Lenovo1",
+    "proImg":"img/xxx.png"
+  },
+  {
+    "proName":"Lenovo2",
+    "proImg":"/static/public/img/xxx.png"
+  }
+]
