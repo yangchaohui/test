@@ -56,7 +56,8 @@ export default {
   align-items: center;
   justify-content: space-between;
   background: #17b3a3;
-  padding: 0 20px;
+  padding: 0 20px 0 40px;
+  height: 50px;
 }
 .logo {
   font-size: 20px;

@@ -120,7 +120,10 @@ export default {
 </script>
 <style>
 .leftMenu {
-  min-width: 200px;
+  min-width: 230px;
   background: #263238;
+}
+.el-submenu span, .el-menu-item span {
+  color: #8a979e;
 }
 </style>
