@@ -12,6 +12,9 @@
 import MyNav from '@/components/myNav'
 import LeftMenu from '@/components/leftMenu'
 import RightCon from '@/components/rightCon'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'jquery/dist/jquery.min'
+import 'bootstrap/dist/js/bootstrap.min.js'
 
 export default {
   name: 'App',

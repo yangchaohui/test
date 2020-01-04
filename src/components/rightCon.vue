@@ -8,11 +8,9 @@
 </template>
 <script>
 import Breadcrumb from '@/components/breadcrumb'
-import MyForm from '@/views/user/myForm'
 
 export default {
   components: {
-    MyForm,
     Breadcrumb
   },
   data () {

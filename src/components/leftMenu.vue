@@ -18,7 +18,7 @@
         <el-menu-item-group>
           <el-menu-item index="1-1" route="/myForm">用户管理</el-menu-item>
           <el-menu-item index="1-2" route="/cs">部门管理</el-menu-item>
-          <el-menu-item index="1-3">角色管理</el-menu-item>
+          <el-menu-item index="1-3" route="/addUser">角色管理</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
       <el-menu-item index="2">
